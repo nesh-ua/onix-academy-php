@@ -1,0 +1,16 @@
+## Полезные ссылки
+
+- [Урок по github и git](https://www.youtube.com/watch?v=zZBiln_2FhM)
+- [Типы данных](https://www.php.net/manual/ru/language.types.php)
+- [Переменные](https://www.php.net/manual/ru/language.variables.php)
+  - [Предопределённые переменные](https://www.php.net/manual/ru/reserved.variables.php)
+  - [Функций работы с переменными](https://www.php.net/manual/ru/ref.var.php)
+- [Константы](https://www.php.net/manual/ru/language.constants.php)
+  - [Предопределённые константы](https://www.php.net/manual/ru/reserved.constants.php)
+  - [Магические константы](https://www.php.net/manual/ru/language.constants.magic.php)
+- [Операторы](https://www.php.net/manual/ru/language.operators.php)
+- [Управляющие конструкции](https://www.php.net/manual/ru/language.control-structures.php)
+- [Функции](https://www.php.net/manual/ru/language.functions.php)
+  - [Строковые функции](https://www.php.net/manual/ru/language.operators.string.php)
+  - [Функции для работы с масивами](https://www.php.net/manual/ru/ref.array.php)
+  - [Справочник всех встроенных функций](https://www.php.net/manual/ru/funcref.php)
