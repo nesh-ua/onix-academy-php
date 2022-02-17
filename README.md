@@ -50,7 +50,7 @@
 - Интерфейсы объектов
 - Трейты
 - Позднее статическое связывание
-  Ковариантность и контравариантность
+- Ковариантность и контравариантность
 
 [Теория](lessons/lesson-04/theory.md) | [Практика](lessons/lesson-04/practice.md) | [Полезные ссылки](lessons/lesson-04/links.md) | [Домашнее задание](lessons/lesson-04/practice.md)
 
@@ -88,8 +88,12 @@
 - Состояние
 - Фасад
 
+[Теория](./lessons/lesson-08/theory.md) | [Практика](./lessons/lesson-08/practice.md) | [Полезные ссылки](./lessons/lesson-08/links.md) | [Домашнее задание](lessons/lesson-08/practice.md)
+
 #### Урок 9: Паттерны (Часть 2)
 
 - Абстрактная Фабрика
 - Декоратор
 - Стратегии
+
+[Теория](./lessons/lesson-09/theory.md) | [Практика](./lessons/lesson-09/practice.md) | [Полезные ссылки](./lessons/lesson-09/links.md) | [Домашнее задание](lessons/lesson-09/practice.md)
