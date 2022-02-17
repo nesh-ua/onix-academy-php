@@ -1,0 +1,1 @@
+- [Журнал изменений ООП](https://www.php.net/manual/ru/language.oop5.changelog.php)

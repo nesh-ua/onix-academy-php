@@ -8,15 +8,15 @@
 
 ## Курс
 
-#### Урок 0: Введение в PHP
+#### Урок 1: Введение в PHP
 
 - Введение в PHP
 - Разбор как работает веб приложение
 - Установка и настройка окружения
 
-[Презентация](https://docs.google.com/presentation/d/1vStwVV_O-Ydzg9oo4fAwOq3tqDCdNf3ucCLevCqEsJQ/edit?usp=sharing) | [Теория](./lessons/lesson-00/theory.md) | [Практика](lessons/lesson-00/practice.md) | [Полезные ссылки](lessons/lesson-00/links.md) | [Домашнее задание](lessons/lesson-00/hw.md)
+[Презентация](https://docs.google.com/presentation/d/1vStwVV_O-Ydzg9oo4fAwOq3tqDCdNf3ucCLevCqEsJQ/edit?usp=sharing) | [Теория](lessons/lesson-01/theory.md) | [Практика](lessons/lesson-01/practice.md) | [Полезные ссылки](lessons/lesson-01/links.md) | [Домашнее задание](lessons/lesson-01/hw.md)
 
-#### Урок 1
+#### Урок 2
 
 - Основы синтаксиса
 - Типы
@@ -25,45 +25,34 @@
 - Управляющие конструкции
 - Функции
 
-[Теория](./lessons/lesson-01/theory.md) | [Практика](./lessons/lesson-01/practice.md) | [Полезные ссылки](./lessons/lesson-01/links.md) | [Домашнее задание](./lessons/lesson-01/hw.md)
+[Теория](lessons/lesson-02/theory.md) | [Практика](lessons/lesson-02/practice.md) | [Полезные ссылки](lessons/lesson-02/links.md) | [Домашнее задание](lessons/lesson-02/hw.md)
 
-###### [Домашнее задание](lessons/lesson-01/practice.md)
+###### [Домашнее задание](lessons/lesson-02/practice.md)
 
-#### Урок 2: ООП (Часть 1).
+#### Урок 3: ООП (Часть 1).
 
-- Классы и объекты.
-- Свойства и Константы класса.
-- Методы класса
-- Конструктор и деструктор
+- Классы и объекты
+- Анонимные классы
+- Свойства, константы, методы класса
 - Ключевое слово static
+- Объекты и ссылки
+- Магические методы
+- Неймспейсы
+- Автоматическая загрузка классов
 
-[Теория](./lessons/lesson-02/theory.md) | [Практика](./lessons/lesson-02/practice.md) | [Полезные ссылки](./lessons/lesson-02/links.md) | [Домашнее задание](lessons/lesson-02/practice.md)
+[Теория](lessons/lesson-03/theory.md) | [Практика](lessons/lesson-03/practice.md) | [Полезные ссылки](lessons/lesson-03/links.md) | [Домашнее задание](lessons/lesson-03/practice.md)
 
-#### Урок 3: ООП (Часть 2).
+#### Урок 4: ООП (Часть 2).
 
 - Наследование и ключевое слово final
 - Область видимости
 - Абстрактные классы
 - Интерфейсы объектов
 - Трейты
+- Позднее статическое связывание
+  Ковариантность и контравариантность
 
-[Теория](./lessons/lesson-03/theory.md) | [Практика](./lessons/lesson-03/practice.md) | [Полезные ссылки](./lessons/lesson-03/links.md) | [Домашнее задание](lessons/lesson-03/practice.md)
-
-#### Урок 4: ООП (Часть 3).
-
-- Анонимные классы
-- Перегрузка
-- Магические методы
-- Клонирование объектов
-- Сравнение объектов
-- Объекты и ссылки
-- Сериализация объектов
-- Ковариантность и контравариантность
-- Неймспейсы
-- Автоматическая загрузка классов
-
-[Теория](./lessons/lesson-04/theory.md) | [Практика](./lessons/lesson-04/practice.md) | [Полезные ссылки](./lessons/lesson-04/links.md) | [Домашнее задание](lessons/lesson-04/practice.md)
-
+[Теория](lessons/lesson-04/theory.md) | [Практика](lessons/lesson-04/practice.md) | [Полезные ссылки](lessons/lesson-04/links.md) | [Домашнее задание](lessons/lesson-04/practice.md)
 
 #### Урок 5: PHP - детальнее (Часть 1).
 
