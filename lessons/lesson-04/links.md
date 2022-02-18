@@ -1,0 +1,7 @@
+- [Наследование](https://www.php.net/manual/ru/language.oop5.inheritance.php)
+- [Область видимости](https://www.php.net/manual/ru/language.oop5.visibility.php)
+- [Абстрактные классы](https://www.php.net/manual/ru/language.oop5.abstract.php)
+- [Интерфейсы объектов](https://www.php.net/manual/ru/language.oop5.interfaces.php) 
+- [Ключевое слово final](https://www.php.net/manual/ru/language.oop5.final.php) 
+- [Трейты](https://www.php.net/manual/ru/language.oop5.traits.php)
+- [Ковариантность и контравариантность](https://www.php.net/manual/ru/language.oop5.variance.php)

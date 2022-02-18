@@ -4,6 +4,7 @@
 - [Свойства](https://www.php.net/manual/ru/language.oop5.properties.php)
 - [Константы](https://www.php.net/manual/ru/language.oop5.constants.php)
 - [Ключевое слово static](https://www.php.net/manual/ru/language.oop5.static.php)
+- [Оператор разрешения области видимости](https://www.php.net/manual/ru/language.oop5.paamayim-nekudotayim.php)
 - [Конструкторы и деструкторы](https://www.php.net/manual/ru/language.oop5.decon.php)
 - [Магические методы](https://www.php.net/manual/ru/language.oop5.magic.php)
 - [Перегрузка](https://www.php.net/manual/ru/language.oop5.overloading.php)
