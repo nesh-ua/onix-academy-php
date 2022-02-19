@@ -12,5 +12,5 @@
 - [Управляющие конструкции](https://www.php.net/manual/ru/language.control-structures.php)
 - [Функции](https://www.php.net/manual/ru/language.functions.php)
   - [Строковые функции](https://www.php.net/manual/ru/language.operators.string.php)
-  - [Функции для работы с масивами](https://www.php.net/manual/ru/ref.array.php)
+  - [Функции для работы с массивами](https://www.php.net/manual/ru/ref.array.php)
   - [Справочник всех встроенных функций](https://www.php.net/manual/ru/funcref.php)

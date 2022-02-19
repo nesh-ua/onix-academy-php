@@ -19,7 +19,7 @@ php -v
 #go to path with project and run php server
 php -S 127.0.0.1:8080
 ```
-- Install PHP for MacOS
+- Install PHP for macOS
 ```shell
 #check installing XCode
 xcode-select -p
@@ -44,7 +44,7 @@ php -S 127.0.0.1:8080
 ![](./files/mac-php-installed.png)
 - Install PHP for Windows
   - Качаем архив Thread Safe с нужной разрядностью по [ссылке](https://windows.php.net/download#php-8.1) на диск C
-  - Разархивируем скачаный архив в C:\php
+  - Разархивируем скачанный архив в C:\php
   - Переименовываем php.ini-development в php.ini 
   - Прописываем путь к php в переменные окружения 
     - В строке "Поиск" выполните поиск: Система (Панель управления)
