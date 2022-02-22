@@ -11,8 +11,9 @@
 #### Урок 1: Введение в PHP
 
 - Введение в PHP
-- Разбор как работает веб приложение
 - Установка и настройка окружения
+- Разбор как работает веб приложение
+- TCP/IP, HTTP
 
 [Презентация](https://docs.google.com/presentation/d/1vStwVV_O-Ydzg9oo4fAwOq3tqDCdNf3ucCLevCqEsJQ/edit?usp=sharing) | [Теория](lessons/lesson-01/theory.md) | [Практика](lessons/lesson-01/practice.md) | [Полезные ссылки](lessons/lesson-01/links.md) | [Домашнее задание](lessons/lesson-01/hw.md)
 

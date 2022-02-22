@@ -5,3 +5,4 @@
 - [Описание директив php.ini](https://www.php.net/manual/ru/ini.php)
 - [Список/классификация модулей PHP](https://www.php.net/manual/ru/extensions.php)
 - [Урок по github и git](https://www.youtube.com/watch?v=zZBiln_2FhM)
+- [HTTP протокол на пальцах](https://www.youtube.com/watch?v=C_QZtajkDf0&t=618s&ab_channel=letsCode)
