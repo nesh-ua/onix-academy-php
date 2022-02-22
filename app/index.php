@@ -1,10 +1,10 @@
 <?php if (!empty($_GET)): ?>
     <?php
         header('Content-Type: application/json; charset=utf-8');
-    echo json_encode([
-        'post' => $_GET,
-        'server' => $_SERVER
-    ]);
+        echo json_encode([
+            'post' => $_GET,
+            'server' => $_SERVER
+        ]);
     ?>
 <?php elseif (!empty($_POST)): ?>
     <?php
