@@ -13,7 +13,7 @@
 - Введение в PHP
 - Установка и настройка окружения
 - Разбор как работает веб приложение
-- TCP/IP, HTTP
+- TCP/IP и HTTP
 
 [Презентация](https://docs.google.com/presentation/d/1vStwVV_O-Ydzg9oo4fAwOq3tqDCdNf3ucCLevCqEsJQ/edit?usp=sharing) | [Теория](lessons/lesson-01/theory.md) | [Практика](lessons/lesson-01/practice.md) | [Полезные ссылки](lessons/lesson-01/links.md) | [Домашнее задание](lessons/lesson-01/hw.md)
 
